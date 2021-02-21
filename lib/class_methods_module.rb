@@ -11,5 +11,5 @@ module MetaDancing
   class Kid
     extend MetaDancing
   end
-  
+
 end
