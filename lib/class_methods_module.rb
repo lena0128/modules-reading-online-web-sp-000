@@ -7,5 +7,5 @@ module MetaDancing
   class Dancer
     extend MetaDancing
   end
-  
+
 end
